@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"name": "assets",
+		"path": "../assets"
+	},
+	{
+		"name": "forms",
+		"path": "."
+	},
+	{
+		"name": "is303team10",
+		"path": "../../is303team10"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "forms"
+  }
+}
